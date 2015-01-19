@@ -1,4 +1,5 @@
 Steps to follow to run the script run_analysis():
+=================================================
 
 1) Extract the zip file available at the below link to  a temp directory:
 

@@ -1,4 +1,5 @@
 This code book explains the datasets and variables used and derived in this project:
+====================================================================================
 
 Original source of the data:
 
@@ -151,7 +152,7 @@ There are total 66 variables that end in either mean() or std(), list given belo
 [65] "fBodyBodyGyroJerkMag-mean()" "fBodyBodyGyroJerkMag-std()" 
 
 Steps involved in calculating the averages of all the 66 variables:
-
+===================================================================
 1) load the data ./data/train/X_train.txt into x_train variable
 2) load the data ./data/train/y_train.txt into y_train variable
 3) load the data ./data/train/subject_train.txt into subject_train variable
